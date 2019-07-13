@@ -74,13 +74,13 @@ li a {
     text-align: center;
 }
 
-#about:hover,
+/* #about:hover,
 #portfolio:hover,
 #contact:hover {
     font-size: 1.5em;
     margin-bottom: 26px;
     transition: .2s ease;
-}
+} */
 
 #about,
 #portfolio {
